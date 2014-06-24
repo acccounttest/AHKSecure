@@ -1,3 +1,4 @@
+#RequireAdmin
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
 #AutoIt3Wrapper_Icon=AHKSecLogo.ico
 #AutoIt3Wrapper_Outfile=bin\AHKSecure.exe
